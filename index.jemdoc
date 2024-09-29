@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Multi-Agent Intelligent Networks (MAIN) Lab 
+
+~~~
+{}{img_left}{photos/research_statement_figure.jpg}{}{900}{}{}
+\n PI: [https://vishrantt.github.io Vishrant Tripathi] \n
+[https://engineering.purdue.edu/ECE Dept. of ECE, Purdue]\n 
+email: /tripathv/ \[@\] purdue \[DOT\] edu
+~~~
+
+== Overview
+The Multi-Agent Intelligent Networks (MAIN) lab at Purdue ECE works on 
+- *Foundational Theory*: We are interested in optimizing communication and networking to build infrastructure of the future and enable networked intelligence at scale. This encompasses analyzing systems ranging from local wireless networks, to next-generation mobile and edge networks, to large-scale cloud infrastructure.
+- *System Design and Implementation*: We apply the insights gained from rigorous analysis to the creation of high-performing systems. We often implement our algorithms on software defined radios and UAVs.
+- *Impact*: We are driven by the potential of applying our foundational innovations in theory and systems to solve challenging problems, especially in the fields of intelligent robotics and autonomous systems.
+
+
+Our work has a strong foundation in classical tools and techniques including *probability and optimization*, modeling wireless systems, graph algorithms, queuing, and *control theory* as well as tools from *machine learning* such as multi-armed bandits and online learning. We regularly collaborate with experts in control and robotics as well as cloud networking to directly impact multiple research communities.
+
+Priot to setting up this lab at Purdue, Vishrant (PI of MAIN lab) was at MIT, working with [https://modiano.mit.edu Prof. Eytan Modiano]. You can find press coverage of some of his prior work at the following links - [https://news.mit.edu/2023/new-traffic-cop-algorithm-drone-swarm-wireless-0313 MIT News], [https://aeroastro.mit.edu/news-impact/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ AeroAstro@MIT], [https://computing.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Schwarzman College of Computing MIT], [https://idss.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Institute for Data Systems and Society MIT], [https://wca.org/a-new-wireless-algorithm-helps-drones-stay-focused-on-tasks/ Wireless Communications Alliance], [https://aimagazine.com/articles/robots-and-drones-demanding-data-for-life-or-death-decisions AI Magazine], [https://www.hackster.io/news/don-t-let-the-past-slow-you-down-97410db15624 Hackster.io], [https://techxplore.com/news/2023-03-traffic-cop-algorithm-drone-swarm.html TechXplore], [https://www.autonomousvehicleinternational.com/news/connectivity/mit-engineers-develop-wiswarm-to-prioritize-wi-fi-data-transfer.html Autonomous Vehicle International], 
+ and [https://www.quadricottero.com/2023/03/mit-sviluppa-wiswarm-il-nuovo.html Quadricottero]. 
+
+== Recent Updates
+
+*Sep 2024*: Our paper "Monitoring Correlated Sources: AoI-based Scheduling is Nearly Optimal" got accepted to IEEE Transactions on Mobile Computing (TMC)! This was joint work with R. Vallabh Ramakanth and Prof. Modiano at MIT.
+
+*Aug 2024*: Our paper "Optimizing Age of Information with Correlated Sources" got accepted to IEEE Transactions on Networking! This was joint work with Prof. Modiano at MIT.
+
+*Aug 2024*: Our paper "A Whittle Index Approach to Minimizing Functions of Age of Information" got accepted to IEEE Transactions on Networking! This was joint work with Prof. Modiano at MIT.
+
+*Aug 2024*: Vishrant will start as an Elmore Scholar of Excellence Assistant Professor in the ECE department at Purdue!
+
+*Dec 2023*: Vishrant's PhD thesis and ongoing research will be profiled in the upcoming special issue of the ACM SIGMETRICS Performance Review. You can find the profile [https://dl.acm.org/doi/abs/10.1145/3639830.3639853 here].
+
+== Open Positions
+
+In case you're interested in working on problems at the intersection of communication networks, probabilistic modeling, optimization/control, robotics, and machine learning *we are recruiting students for Spring 2025 and Fall 2025. Send us an email to get in touch!*
+
+

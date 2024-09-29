@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Research Directions</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Index</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="people.html">People</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research Directions</h1>
+</div>
+<iframe width="735" height="413" src="https://www.youtube.com/embed/zGjGxK5AXFk" title="WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>We work on the following broad research directions.</p>
+<h2>Real-Time Monitoring and Control</h2>
+<p>A central focus of our research is understanding how to optimize the flow of information in wireless networks, in order to achieve real-time monitoring and control. In multi-agent robotics applications, such as tracking in adversarial environments or search-and-rescue missions, robots often need to exchange high fidelity data in real-time. This is the main motivation behind our work. Traditional wireless networking solutions optimize for standard performance metrics such as throughput and delay. However, these tend to perform poorly when used out-of-the-box for applications that require real-time performance. Using newer metrics and notions such as the <b>Age of Information</b> and <b>semantics of information</b>, along with tools such as restless bandits and online learning, we optimize resouce allocation in wireless networks to enable better monitoring and control.</p>
+<h2>Online Learning and Correlation in Wireless Networks</h2>
+<p>Often, not only do we need to optimize resource allocation in a static setting, but also learn and adapt to changes in the wireless network and the systems that we are monitoring or controlling. Using tools from online learning and reinforcement learning, we tackle such problems from a foundational theory perspective.</p>
+<p>Another set of problems that we have been tackling recently is the monitoring and control of correlated or coupled systems over networks. These problems arise frequently in multi-agent robotics (with overlapping fields of view and sensing areas). However, due to the technical complexity of modeling and optimizing correlation, they have received relatively little attention so far.</p>
+<h2>Multi-Agent Robotics &amp; Edge Computing for Autonomy</h2>
+<p>We work on the development of networking systems for multi-agent robotics, along the lines of our prior work on <a href="https://www.youtube.com/watch?v=tHIxPk8Prxs">WiSwarm</a>. Computational offloading has the potential to create far more efficient and scalable robotics systems. However, computation offloading, whether at the edge or the cloud, requires high throughput, low delay and reliable wireless networks to ensure that robots can continue to perform safely and as intended, in real-time, without losing control. How can we design networking solutions for multi-agent applications such as search-and-rescue in deep subterranean cave networks, monitoring in large industrial warehouses, and controlling fleets of autonomous vehicles while ensuring safe operation and efficient communication? We tackle these questions using both theoretical tools and systems design.</p>
+<h2>Federated Learning </h2>
+<p>Performing federated learning over resource-constrained wireless networks has received significant interest in the networking community over the past few years. The central question here is also one of resource optimization - obtaining gradient information from all users in the network is too involved and time-consuming, so the central aggregator needs to sample gradients from small batches of users at any given time. How should one go about picking users to guarantee better performance? What happens when the underlying learning tasks and datasets change over time? How do we simultaneously deliver faster convergence, better privacy guarantees, reduced communication overheads, and personalized models? We study the optimization and design of the federated learning training process in time-varying resource constrained wireless environments.</p>
+<h2>Software Defined Networking (for cloud infrastructure)</h2>
+<p>We have significant industry experience and knowledge on the optimization of large-scale cloud infrastructure. A large part of traffic engineering and topology optimization for modern data centers happens via Software Defined Networking (SDN), where centralized controllers make decisions to optimize performance based on monitoring data that they receive from the entire network. Herein lies a dilemma. Fresh and accurate monitoring causes huge overheads, but is necessary to deliver good performance. Interestingly, this is the same resource optimization vs. information freshness dilemma that we handle in our wireless research. Better utilization of cloud resources and making sure that networking is not the bottleneck has become an even more pressing question with the growing scale and data hungriness of large ML models. We use theory to understand largescale cloud infrastructure optimization and the problems associated with engineering them. This is also a stron area for collaboration between academia and industry.</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
