@@ -1,15 +1,11 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-== Multi-Agent Intelligent Networks (MAIN) Lab 
+
+= Multi-Agent Intelligent Networks (MAIN) Lab 
 
 
 ~~~
-{}{img_left}{photos/main-lab-long.png}{}{900}{}{}
-~~~
-
-~~~
-{}{img_left}{photos/research_statement_figure.jpg}{}{900}{}{}
-\n PI: [https://vishrantt.github.io Vishrant Tripathi] \n
-[https://engineering.purdue.edu/ECE Dept. of ECE, Purdue]\n 
+\n PI: [https://vishrantt.github.io Vishrant Tripathi] | 
+[https://engineering.purdue.edu/ECE Dept. of ECE, Purdue] \n 
 email: /tripathv/ \[@\] purdue \[DOT\] edu
 ~~~
 
@@ -18,6 +14,12 @@ The Multi-Agent Intelligent Networks (MAIN) lab at Purdue ECE works on
 - *Foundational Theory*: We are interested in optimizing communication and networking to build infrastructure of the future and enable networked intelligence at scale. This encompasses analyzing systems ranging from local wireless networks, to next-generation mobile and edge networks, to large-scale cloud infrastructure.
 - *System Design and Implementation*: We apply the insights gained from rigorous analysis to the creation of high-performing systems. We often implement our algorithms on software defined radios and UAVs.
 - *Impact*: We are driven by the potential of applying our foundational innovations in theory and systems to solve challenging problems, especially in the fields of intelligent robotics and autonomous systems.
+
+\n 
+~~~ 
+{MAIN Lab Research Statement Figure}{img_left}{photos\research_statement_figure.jpg}{}{800}{}{}
+~~~
+\n 
 
 
 Our work has a strong foundation in classical tools and techniques including *probability and optimization*, modeling wireless systems, graph algorithms, queuing, and *control theory* as well as tools from *machine learning* such as multi-armed bandits and online learning. We regularly collaborate with experts in control and robotics as well as cloud networking to directly impact multiple research communities.
